@@ -118,7 +118,8 @@ if __name__ == "__main__":
 ## OUTPUT:
 <img width="1711" height="937" alt="Screenshot 2026-05-23 201941" src="https://github.com/user-attachments/assets/68e13c5b-a173-4c17-afe6-4aaccc3caeb9" />
 
-<img width="1906" height="996" alt="Screenshot 2026-05-23 201803" src="https://github.com/user-attachments/assets/8644f6d0-8878-41a4-8659-645fedd275b1" />
+<img width="1920" height="1200" alt="Screenshot 2026-05-29 202313" src="https://github.com/user-attachments/assets/78c0a134-b5e0-4deb-b44d-5af24d0fa828" />
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
